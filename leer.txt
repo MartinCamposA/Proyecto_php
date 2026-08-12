@@ -1,0 +1,7 @@
+Necesito:
+-Agregar productos al carrito con sesion
+-Eliminar productos del carrito con sesion(Listo)
+-Mostrar productos en el carrito con sesion 
+-Mostrar total de la venta con sesion
+-Cancelar venta con sesion(Listo)
+-Al presionar boton de pago cierra sesion y descuenta stock del inventario de la base de dato
